@@ -8,13 +8,15 @@
 
 I'm pursuing a dual degree in Electrical Engineering and Innovation, Leadership & Engineering Entrepreneurship at the University of Illinois Urbana-Champaign. I'm interested in semiconductors, quantum technology, and power and energy. I'm especially drawn to the engineering and entrepreneurship it takes to move an idea from the lab into real use.
 
-My electrical engineering work at **Constellation Energy's Clinton Station** has focused on design and modernization projects at an operating nuclear power plant. As an **IBM SkillsBuild Student Ambassador at UIUC**, I organize campus events and connect students with free AI learning resources and digital credentials.
+My electrical engineering work at **Constellation Energy's Clinton Station** has focused on design, strategic planning, plant modernization and compliance, and nuclear cybersecurity at an operating nuclear power plant. As an **IBM SkillsBuild Student Ambassador at UIUC**, I organize campus events and connect students with free AI learning resources and digital credentials.
 
 I'm also a co-founder of **EnviroTrap**, where we're working with campus facilities staff to understand where waste comes from and give them better data to work with.
 
 **Builder. Leader. Servant.**
 
-🔗 [Portfolio](https://tj-pickett-pinex.netlify.app) · [LinkedIn](https://www.linkedin.com/in/tjpickettpinexli/) · [EnviroTrap Nexus (flagship, below)](#-envirotrap-nexus) · 📧 [tpine3@illinois.edu](mailto:tpine3@illinois.edu)
+*"Whatever you do, work at it with all your heart, as working for the Lord." — Colossians 3:23*
+
+🔗 [Portfolio](https://tj-pickett-pinex.netlify.app/links/) · [LinkedIn](https://www.linkedin.com/in/tjpickettpinexli/) · [EnviroTrap Nexus (flagship, below)](#-envirotrap-nexus) · 📧 [tpine3@illinois.edu](mailto:tpine3@illinois.edu)
 
 <br>
 
@@ -69,4 +71,4 @@ Of the 79,533 waste-pickup records UIUC's LoadMan truck-weight system has logged
 
 📧 **Email:** [tpine3@illinois.edu](mailto:tpine3@illinois.edu)
 💼 **LinkedIn:** [linkedin.com/in/tjpickettpinexli](https://www.linkedin.com/in/tjpickettpinexli/)
-🌐 **Portfolio:** [tj-pickett-pinex.netlify.app](https://tj-pickett-pinex.netlify.app)
+🌐 **Portfolio:** [tj-pickett-pinex.netlify.app/links](https://tj-pickett-pinex.netlify.app/links/)
