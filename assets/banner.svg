@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" role="img" aria-labelledby="bannerTitle bannerDesc">
+  <title id="bannerTitle">Tajuan "TJ" Pickett-Pinex</title>
+  <desc id="bannerDesc">Builder. Leader. Servant. Electrical Engineering + Innovation, Leadership and Engineering Entrepreneurship, University of Illinois Urbana-Champaign.</desc>
+  <style>
+    .bg { fill: #0a0a0a; }
+    .trace { stroke: #e63946; }
+    .node { fill: #e63946; }
+    .name { fill: #f5f5f0; font-family: 'Segoe UI', Helvetica, Arial, sans-serif; font-weight: 800; }
+    .tag { fill: #e63946; font-family: 'Segoe UI', Helvetica, Arial, sans-serif; font-weight: 700; }
+    .line { fill: #cfcfc8; font-family: 'Segoe UI', Helvetica, Arial, sans-serif; font-weight: 400; }
+    .rule { stroke: #3a3a3a; }
+    @media (prefers-color-scheme: light) {
+      .bg { fill: #f4f4f1; }
+      .name { fill: #0a0a0a; }
+      .line { fill: #4a4a46; }
+      .rule { stroke: #d8d8d2; }
+    }
+  </style>
+
+  <rect class="bg" x="0" y="0" width="1200" height="300"/>
+
+  <!-- signal-trace / collection-route motif, bottom-right -->
+  <g class="trace" fill="none" stroke-width="2" opacity="0.85">
+    <path d="M 760 300 L 760 230 L 840 230 L 840 180 L 930 180 L 930 140 L 1010 140"/>
+    <path d="M 1010 140 L 1010 90 L 1080 90 L 1080 60 L 1160 60"/>
+    <path d="M 900 300 L 900 260 L 960 260 L 960 215 L 1040 215 L 1040 175"/>
+  </g>
+  <circle class="node" cx="1010" cy="140" r="4.5"/>
+  <circle class="node" cx="1080" cy="60" r="4.5"/>
+  <circle class="node" cx="1160" cy="60" r="4.5"/>
+  <circle class="node" cx="1040" cy="175" r="4.5"/>
+
+  <line class="rule" x1="80" y1="96" x2="80" y2="208" stroke-width="2"/>
+
+  <text x="112" y="140" class="name" font-size="46" letter-spacing="0.5">TAJUAN "TJ" PICKETT-PINEX</text>
+  <text x="112" y="172" class="tag" font-size="20" letter-spacing="3">BUILDER. LEADER. SERVANT.</text>
+  <text x="112" y="206" class="line" font-size="18">Electrical Engineering + ILEE · UIUC</text>
+</svg>
