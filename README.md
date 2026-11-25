@@ -6,11 +6,11 @@
 
 **Electrical Engineering + Innovation, Leadership & Engineering Entrepreneurship · UIUC**
 
-I'm pursuing a dual degree in Electrical Engineering and Innovation, Leadership & Engineering Entrepreneurship at the University of Illinois Urbana-Champaign. I'm interested in semiconductors, quantum technology, and power and energy. I'm especially drawn to the engineering and entrepreneurship it takes to move an idea from the lab into real use.
+I'm pursuing a dual degree in Electrical Engineering plus Innovation, Leadership & Engineering Entrepreneurship (ILEE) at the University of Illinois Urbana-Champaign. I'm interested in semiconductors, AI, quantum technology, and power and energy. I'm especially drawn to the engineering and entrepreneurship it takes to move an idea from the lab into real use.
 
-My electrical engineering work at **Constellation Energy's Clinton Station** has focused on design, strategic planning, plant modernization and compliance, and nuclear cybersecurity at an operating nuclear power plant. As an **IBM SkillsBuild Student Ambassador at UIUC**, I organize campus events and connect students with free AI learning resources and digital credentials.
+My electrical engineering work at **Constellation Energy** has focused on two sides of engineering: design and strategic. Through both, it has consisted of project management, preventative maintenance planning, plant modernization and compliance, and nuclear cybersecurity at an operating nuclear power plant. As an **IBM SkillsBuild Student Ambassador at UIUC**, and the **first President of the IBM SkillsBuild UIUC collective**, I organize campus events and connect students with free learning resources and digital credentials across AI, quantum, cybersecurity, and thousands of other topics in tech and development.
 
-I'm also a co-founder of **EnviroTrap**, where we're working with campus facilities staff to understand where waste comes from and give them better data to work with.
+I'm also a co-founder of **EnviroTrap**, a student-led research initiative where we're working with campus facilities staff to understand where waste comes from and give them better data to work with and connect to help operational decisions.
 
 **Builder. Leader. Servant.**
 
